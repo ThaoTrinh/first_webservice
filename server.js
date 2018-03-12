@@ -50,5 +50,4 @@ app.get('*', function(req,res){
 });
 
 app.listen(process.env.PORT || 1337);
-Khoa Nguyễn Anh đã xem lúc 23:18
 
